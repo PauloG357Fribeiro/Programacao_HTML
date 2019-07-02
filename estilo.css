@@ -1,6 +1,6 @@
 h4{
     color: deeppink;
-    margin-left: 2px solid wheat;
+    border: 2px solid wheat;
 }
 button{
     color: red;
@@ -9,4 +9,11 @@ button{
 p{
     color: sienna;
     margin-left: 9px;
+}
+input[type=week]:focus{
+    background: blue;
+}
+.classeH2{
+    font-size: 60pt;
+    color: chartreuse;
 }
